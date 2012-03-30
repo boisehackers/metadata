@@ -1,0 +1,39 @@
+{
+	"series": {
+		"frequency": "weekly",
+		"day": "Wednesday",
+		"startTime": "5pm",
+		"endTime": "9pm",
+		"location": "various venues in downtown Boise"
+	},
+	"nextMeeting": {
+		"id": 3,
+		"shortDate": "4/4/2012",
+		"location": "Dawson Taylor",
+		"intersection": "8th & Bannock"
+	},
+	"pastMeetings":[
+		{
+			"id": 0,
+			"shortDate": "3/14/2012",
+			"location": "Java Downtown",
+			"intersection": "6th and Idaho",
+			"attendance": 8
+		},
+		{
+			"id": 1,
+			"shortDate": "3/14/2012",
+			"location": "Thomas Hammer",
+			"intersection": "8th & Bannock",
+			"attendance": 3,
+			"notes": "Thomas Hammer closes at 8pm"
+		},
+		{
+			"id": 2,
+			"shortDate": "3/14/2012",
+			"location": "Dawson Taylor",
+			"intersection": "8th & Bannock",
+			"attendance": 7
+		}
+	]
+}
